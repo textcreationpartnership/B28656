@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ranting whores resolution wherein you will finde that her only treasure consisteth in being a lady of pleasure. To the tune of, General Monks march.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28656</idno><idno type="EEBO-CITATION">99827937</idno>
+  <idno type="VID">198091</idno>
+  <idno type="EEBO-PROQUEST">2248500584</idno>
+  
+            <idno type="STC">Wing R255</idno>
+            <idno type="PROQUEST">99827937</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827937e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:252-253)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ranting whores resolution wherein you will finde that her only treasure consisteth in being a lady of pleasure. To the tune of, General Monks march.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Coles, M. Wright, T. Vere. and W. Gilbertson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Oh! fye upon care".</note>
+                  <note>Publication date from Wing.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198091:1"/>
+            <head>The Ranting Whores Resolution:
+<q>
+                  <l>Wherein you will finde that her only Treasure</l>
+                  <l>Consisteth in being a Lady of Pleasure.</l>
+               </q>
+            </head>
+            <opener>To the Tune of, General Monks March.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of man in tree watching couple lying on the ground</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>OH! fye upon care</l>
+               <l>Why should wée despair,</l>
+               <l>Give mée the Lad that will frollick,</l>
+               <l>There is no disease,</l>
+               <l>But Musick will please,</l>
+               <l>If it were the stone or the cholick.</l>
+               <l>The Lad that drinks Wine,</l>
+               <l>Shall only be mine,</l>
+               <l>Hée that calls for a Cup of Canary,</l>
+               <l>That will tipple and sing,</l>
+               <l>Kiss, caper, and spring,</l>
+               <l>
+                  <hi>And calls for his Mab, and his Mary.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Such sinners as these</l>
+               <l>My pallat will please,</l>
+               <l>For this is a Lad that will knock it,</l>
+               <l>Provided hée bée</l>
+               <l>Not Niggard to mée,</l>
+               <l>But carry good gilt in his pocket;</l>
+               <l>I care not from whence</l>
+               <l>Hée gets his expence,</l>
+               <l>Nor how hée comes by his treasure,</l>
+               <l>So I have the swéets</l>
+               <l>When hée and I méets,</l>
+               <l>
+                  <hi>For I am a Lady of pleasure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I love a young Heir,</l>
+               <l>Whose fortune is fair,</l>
+               <l>And frollick in <hi>Fishstreet</hi>-dinners,</l>
+               <l>Who boldly doth call,</l>
+               <l>And in private paies all,</l>
+               <l>These Boyes are the noble beginners,</l>
+               <l>For what the old Father</l>
+               <l>In long time did gather,</l>
+               <l>Hée toaps it away without measure,</l>
+               <l>Hée'l lye in my lap,</l>
+               <l>Like a Bird in a trap,</l>
+               <l>
+                  <hi>And call mee his Lady of pleasure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hée wears gallant cloaths</l>
+               <l>And studies new Oaths</l>
+               <l>and gets pretty words from the players</l>
+               <l>Hée swaggers and roars,</l>
+               <l>Hée calls the next Oars,</l>
+               <l>And cries, here's a péece for your fairs,</l>
+               <l>Thus wée in delight</l>
+               <l>From morning till night,</l>
+               <l>Do study to cast away treasure,</l>
+               <l>At night in my arms</l>
+               <l>I secure him from harms,</l>
+               <l>
+                  <hi>For I am a Lady of pleasure.</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <pb facs="tcp:198091:1"/>
+               <head>The second part to the same Tune</head>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of man with hat and sword</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>WHen this Gallant's broke,</l>
+                  <l>I've another bespoke,</l>
+                  <l>And hée hath my protestation,</l>
+                  <l>I call him my Love,</l>
+                  <l>My Iewel, my Dove,</l>
+                  <l>And swear by my reputation,</l>
+                  <l>That I never did know</l>
+                  <l>What love was till now,</l>
+                  <l>Though I have had men beyond measure</l>
+                  <l>With such tricks as these</l>
+                  <l>All Coxcombs I please,</l>
+                  <l>
+                     <hi>For I am a Lady of pleasure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When they're in the Iayle,</l>
+                  <l>They wretchedly rail</l>
+                  <l>And at mée they cast all their curses,</l>
+                  <l>Let them laugh that win,</l>
+                  <l>I care not a pin,</l>
+                  <l>When I have confounded their purses,</l>
+                  <l>While they have disgraces,</l>
+                  <l>I know not their faces,</l>
+                  <l>When Warriers of <hi>Woodstreet</hi> make seizure</l>
+                  <l>But when they'r whole men</l>
+                  <l>I'l know them agen</l>
+                  <l>
+                     <hi>For I am a Lady of pleasure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I live by the quick</l>
+                  <l>And not by the sick,</l>
+                  <l>Or such whose estates lye a bléeding</l>
+                  <l>My wast must be bound</l>
+                  <l>By men that are sound,</l>
+                  <l>For I am a Lass of high féeding</l>
+                  <l>If once they grow poor,</l>
+                  <l>No mony, no Whore,</l>
+                  <l>And yet they shall wait on my leisure,</l>
+                  <l>I only fulfil</l>
+                  <l>My fancy and will,</l>
+                  <l>
+                     <hi>Which shews mee a Lady of pleasure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I laugh when they tell</l>
+                  <l>Mee stories of Hell</l>
+                  <l>I think there is no such Cavern,</l>
+                  <l>If Heaven there be</l>
+                  <l>(As some will tell mée)</l>
+                  <l>I am sure it must bée in the Tavern,</l>
+                  <l>Where there is no Wine,</l>
+                  <l>There's nothing divine;</l>
+                  <l>Wée'l think of a grave at more leisure.</l>
+                  <l>Boy fill th'other glass</l>
+                  <l>For I am a Lass</l>
+                  <l>
+                     <hi>That will be a Lady of pleasure.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In fréedome and joyes</l>
+                  <l>I'l spend all my daies,</l>
+                  <l>For there is no greater blessing</l>
+                  <l>Than musick and meat</l>
+                  <l>Good Wine and the feat,</l>
+                  <l>And nothing to pay for the dressing;</l>
+                  <l>Let Sisters precise</l>
+                  <l>Go turn up their eyes,</l>
+                  <l>And speak words by line and by leisure;</l>
+                  <l>If death come at last,</l>
+                  <l>And take mée in haste,</l>
+                  <l>
+                     <hi>Then there lies a Lady of pleasure.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Coles, M. Wright, T. Vere, and W. Gilbertson.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
